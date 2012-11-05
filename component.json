@@ -1,0 +1,11 @@
+{
+  "name": "jsonparse",
+  "description": "This is a pure-js JSON streaming parser for node.js",
+  "keywords": ["json", "stream"],
+  "version": "0.0.3",
+  "author": "Tim Caswell <tim@creationix.com>",
+  "repo": "juliangruber/jsonparse",
+  "license": "MIT",
+  "main": "jsonparse.js",
+  "scripts": ["jsonparse.js"]
+}
